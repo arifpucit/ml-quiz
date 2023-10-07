@@ -1,0 +1,51 @@
+Age,Gender,BP,Smoker_Status,Disease
+43,Male,180,,diseased
+18,Male,,Smoker,not diseased
+,Female,170,Non-smoker,diseased
+25,,160,Non-smoker,diseased
+45,Female,130,Smoker,not diseased
+12,Male,30,Non-smoker,not diseased
+23,Male,140,Smoker,diseased
+33,Male,185,Smoker,diseased
+27,Male,125,Non-smoker,not diseased
+27,Female,131,Non-smoker,not diseased
+48,Female,170,Smoker,diseased
+34,Female,165,Smoker,diseased
+32,Female,170,Smoker,diseased
+66,Male,155,Smoker,diseased
+138,Male,130,Smoker,not diseased
+34,Male,176,Non-smoker,diseased
+27,Male,110,Non-smoker,not diseased
+34,Female,130,Smoker,not diseased
+55,Male,165,Smoker,diseased
+,Male,180,Smoker,diseased
+44,Male,175,Smoker,diseased
+78,Male,160,Non-smoker,diseased
+33,Male,110,Non-smoker,not diseased
+43,Female,120,Non-smoker,not diseased
+32,Female,120,Smoker,not diseased
+66,Male,126,Smoker,not diseased
+24,Male,175,Smoker,diseased
+34,Male,120,Non-smoker,not diseased
+27,Male,160,Non-smoker,diseased
+34,Female,110,Non-smoker,not diseased
+55,Female,160,Smoker,diseased
+130,Female,175,Smoker,diseased
+44,Male,170,Smoker,diseased
+88,Male,155,,diseased
+,Male,131,Non-smoker,not diseased
+42,Female,134,Non-smoker,not diseased
+32,Male,,Non-smoker,not diseased
+45,Female,122,Non-smoker,not diseased
+31,,123,Smoker,not diseased
+63,Male,128,Smoker,not diseased
+25,Male,173,Smoker,diseased
+35,Male,115,Non-smoker,not diseased
+28,Male,158,Non-smoker,diseased
+36,Female,25,Non-smoker,not diseased
+56,Female,163,Smoker,diseased
+64,Female,171,Smoker,diseased
+43,Male,173,Smoker,diseased
+89,Male,152,,diseased
+32,Male,129,Non-smoker,not diseased
+44,Female,132,Non-smoker,not diseased
